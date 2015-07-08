@@ -30,7 +30,7 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 
 ### Console
 
-* [Kdyby\Console](https://github.com/Kdyby/Console)
+* [Kdyby/Console](https://github.com/Kdyby/Console)
 
 ### Security
 
