@@ -15,6 +15,11 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 * [A Year with Symfony](https://leanpub.com/a-year-with-symfony) [updated 2014]
     * Great book for beginners to understand basic Symfony lifecycle and how to use it to your advantages.
 
+## Websites
+
+* [Symfony2cheatsheet](http://www.symfony2cheatsheet.com)
+    * A Symfony2 guide to make your work easier.
+
 
 ---
 
