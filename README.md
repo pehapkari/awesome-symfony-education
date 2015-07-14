@@ -64,3 +64,4 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 
 * [Webuni](https://www.webuni.cz/symfony) - firemní školení
 * [Na rande se Symfony](http://www.naucmese.cz/kurz/na-rande-se-symfony) - individuální školení
+* [PHP framework Symfony 2 od A do Z](http://www.naucmese.cz/kurz/php-framework-symfony2-od-a-do-z) - skupinové školení
