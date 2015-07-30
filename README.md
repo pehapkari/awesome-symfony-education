@@ -16,6 +16,8 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 
 ## Books
 
+* [Symfony Certification - Unofficial self-study guide](https://leanpub.com/symfony-selfstudy) [2015-07]
+   * short Q-A based section about Symfony foundations
 * [A Year with Symfony](https://leanpub.com/a-year-with-symfony) [updated 2014]
     * Great book for beginners to understand basic Symfony lifecycle and how to use it to your advantages.
 
