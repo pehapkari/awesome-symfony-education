@@ -4,6 +4,9 @@ A curated list of amazingly awesome Symfony resources and shiny things.
 
 For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.com/EmanueleMinotto/awesome-symfony2). 
 
+## Console
+* [Test your commands](http://alexandre-salome.fr/blog/Test-your-commands-in-Symfony2) [2011]
+
 
 ## Security
 
