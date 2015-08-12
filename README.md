@@ -16,6 +16,7 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 ## General
 
 * [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015-07]
+* [Mastering Symfony2 Performance – Internals](http://labs.octivi.com/mastering-symfony2-performance-internals/) [2014-04]
 
 ## Books
 
