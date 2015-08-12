@@ -30,6 +30,11 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 * [Symfony2cheatsheet](http://www.symfony2cheatsheet.com)
     * A Symfony2 guide to make your work easier.
 
+## Series
+
+* [Working with Symfony 2](http://code.tutsplus.com/series/working-with-symfony-2--cms-636)
+   * Short video series for starters
+
 
 ---
 
