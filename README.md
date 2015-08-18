@@ -34,6 +34,8 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 
 * [Working with Symfony 2](http://code.tutsplus.com/series/working-with-symfony-2--cms-636)
    * Short video series for starters
+* [Symfony 2 - under 5 minutes](https://www.youtube.com/playlist?list=PL3Wxyd2R8-gIuToQ1NmhVSLZfjrBMePNu)
+   * Short video series for starters 
 
 
 ---
