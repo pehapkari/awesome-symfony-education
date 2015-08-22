@@ -13,6 +13,10 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 * [Drop ACE, use voters](http://slides.com/marieminasyan/drop-ace-use-role-voters#/) [2013]
     * How to use simple yet powerful Voters instead of ACE/ACL overkill.
 
+## Bundles
+
+* [High Quality Symfony Bundles](http://www.slideshare.net/matthiasnoback/high-quality-symfony-bundles-tutorial-dutch-php-conference-2014) [2014-06]
+
 ## General
 
 * [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015-07]
