@@ -7,6 +7,8 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 ## Console
 * [Test your commands](http://alexandre-salome.fr/blog/Test-your-commands-in-Symfony2) [2011]
 
+## EventDispatcher
+* [Decouple your application with (Domain-)Events](https://www.youtube.com/watch?v=K9jub4JPpcc) by Benjamin Eberlei [2013]
 
 ## Security
 
