@@ -20,7 +20,7 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 * [High Quality Symfony Bundles](http://www.slideshare.net/matthiasnoback/high-quality-symfony-bundles-tutorial-dutch-php-conference-2014) [2014-06]
 
 ## Decoupling
-* [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov [2013]
+* [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov [2013], [Github repository](https://github.com/MarcelloDuarte/hexagonal-symfony)
 
 ## General
 
