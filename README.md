@@ -31,6 +31,7 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 
 * [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov [2013], [Github repository](https://github.com/MarcelloDuarte/hexagonal-symfony)
 * [Symfony2: How to create framework independent controllers](http://php-and-symfony.matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers/) [2014]
+* [Symfony2: Controller as Service](http://richardmiller.co.uk/2011/04/15/symfony2-controller-as-service/) [2011]
 
 
 ## DDD
