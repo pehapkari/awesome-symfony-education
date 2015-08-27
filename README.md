@@ -4,33 +4,43 @@ A curated list of amazingly awesome Symfony resources and shiny things.
 
 For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.com/EmanueleMinotto/awesome-symfony2). 
 
+
 ## Console
+
 * [Test your commands](http://alexandre-salome.fr/blog/Test-your-commands-in-Symfony2) [2011]
 
+
 ## EventDispatcher
+
 * [Decouple your application with (Domain-)Events](https://www.youtube.com/watch?v=K9jub4JPpcc) by Benjamin Eberlei [2013]
+
 
 ## Security
 
 * [Drop ACE, use voters](http://slides.com/marieminasyan/drop-ace-use-role-voters#/) [2013]
     * How to use simple yet powerful Voters instead of ACE/ACL overkill.
 
+
 ## Bundles
 
 * [High Quality Symfony Bundles](http://www.slideshare.net/matthiasnoback/high-quality-symfony-bundles-tutorial-dutch-php-conference-2014) [2014-06]
+
 
 ## Decoupling
 
 * [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov [2013], [Github repository](https://github.com/MarcelloDuarte/hexagonal-symfony)
 
-## [DDD]
+
+## DDD
 
 * [DDD with Symfony2: Folder Structure And Code First](http://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/) [2013]
+
 
 ## General
 
 * [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015-07]
 * [Mastering Symfony2 Performance – Internals](http://labs.octivi.com/mastering-symfony2-performance-internals/) [2014-04]
+
 
 ## Books
 
@@ -39,10 +49,12 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 * [A Year with Symfony](https://leanpub.com/a-year-with-symfony) [updated 2014]
     * Great book for beginners to understand basic Symfony lifecycle and how to use it to your advantages.
 
+
 ## Websites
 
 * [Symfony2cheatsheet](http://www.symfony2cheatsheet.com)
     * A Symfony2 guide to make your work easier.
+
 
 ## Series
 
@@ -59,22 +71,27 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 * [Symnedi](https://github.com/Symnedi)
     * Integration of various Symfony components to Nette\DI
   
+
 ### Bundles
 
 * [Symnedi/SymfonyBundlesExtension](https://github.com/Symnedi/SymfonyBundlesExtension)
     * Allows to register Symfony bundles as Nette extensions.
 
+
 ### Console
 
 * [Kdyby/Console](https://github.com/Kdyby/Console)
+
 
 ### Security
 
 * [Symnedi/Security](https://github.com/Symnedi/Security) - Voters, Firewalls 
 
+
 ### EventDispatcher
 
 * [Symnedi/EventDispatcher](https://github.com/Symnedi/EventDispatcher)
+
 
 ### Validator
 
@@ -83,7 +100,9 @@ For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.c
 
 ---
 
+
 ## Česky
+
 
 ### Články
 
