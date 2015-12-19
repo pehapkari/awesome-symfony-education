@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome Symfony resources and shiny things.
 
-For bundles selection, check [EmanueleMinotto/awesome-symfony2](https://github.com/EmanueleMinotto/awesome-symfony2). 
+For bundles selection, check [sitepoint/awesome-symfony](https://github.com/sitepoint/awesome-symfony). 
 
 
 ## Console
