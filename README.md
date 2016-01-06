@@ -22,6 +22,11 @@ For bundles selection, check [sitepoint/awesome-symfony](https://github.com/site
     * How to use simple yet powerful Voters instead of ACE/ACL overkill.
 
 
+## Translations
+* [How Happyr work with Symfony translations](http://developer.happyr.com/how-happyr-work-with-symfony-translations) [2015-08]
+* [Translation workflow with Symfony2](http://jolicode.com/blog/translation-workflow-with-symfony2) 
+
+
 ## Bundles
 
 * [High Quality Symfony Bundles](http://www.slideshare.net/matthiasnoback/high-quality-symfony-bundles-tutorial-dutch-php-conference-2014) [2014-06]
