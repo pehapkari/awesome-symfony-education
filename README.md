@@ -24,7 +24,7 @@ For bundles selection, check [sitepoint/awesome-symfony](https://github.com/site
 
 ## Translations
 * [How Happyr work with Symfony translations](http://developer.happyr.com/how-happyr-work-with-symfony-translations) [2015-08]
-* [Translation workflow with Symfony2](http://jolicode.com/blog/translation-workflow-with-symfony2) 
+* [Translation workflow with Symfony2](http://jolicode.com/blog/translation-workflow-with-symfony2) [2015-07]
 
 
 ## Bundles
