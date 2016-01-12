@@ -39,6 +39,12 @@ For bundles selection, check [sitepoint/awesome-symfony](https://github.com/site
 * [Symfony2: Controller as Service](http://richardmiller.co.uk/2011/04/15/symfony2-controller-as-service/) [2011]
 
 
+## Performance
+
+* [Mastering Symfony2 Performance – Internals](http://labs.octivi.com/mastering-symfony2-performance-internals/) [2014-04]
+* [Mastering Symfony2 Performance – Doctrine](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014-03]
+
+
 ## DDD
 
 * [DDD with Symfony2: Folder Structure And Code First](http://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/) [2013]
@@ -48,7 +54,6 @@ For bundles selection, check [sitepoint/awesome-symfony](https://github.com/site
 
 * [Symfony tips and tricks](http://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) [2014-11]
 * [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015-07]
-* [Mastering Symfony2 Performance – Internals](http://labs.octivi.com/mastering-symfony2-performance-internals/) [2014-04]
 * [Some Symfony 2 practices](http://www.emanueleminotto.it/some-symfony-2-practices)
 
 
