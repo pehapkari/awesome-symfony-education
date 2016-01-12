@@ -72,6 +72,8 @@ For bundles selection, check [sitepoint/awesome-symfony](https://github.com/site
    * Short video series for starters
 * [Symfony 2 - under 5 minutes](https://www.youtube.com/playlist?list=PL3Wxyd2R8-gIuToQ1NmhVSLZfjrBMePNu)
    * Short video series for starters 
+* [KnpUniversity - Learn Symfony](https://knpuniversity.com/tracks/symfony)
+   * Videos + articles. Straightforward, simple & with examples.
 
 
 ---
