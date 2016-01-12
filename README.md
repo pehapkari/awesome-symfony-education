@@ -114,6 +114,11 @@ For bundles selection, check [sitepoint/awesome-symfony](https://github.com/site
 ## Česky
 
 
+### Seriály
+
+* [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016]
+
+
 ### Články
 
 * [Výhody a nevýhody Symfony v bodech](http://devel.cz/otazka/nette-vs-symfony#answer-17973) [2014] - by [@spicimedved](https://twitter.com/spicimedved)
