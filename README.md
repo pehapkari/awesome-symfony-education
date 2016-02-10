@@ -98,14 +98,6 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 * [Střípky ze školení](http://symfony.vojtechvondra.cz/2014-10-11-stripky-ze-skoleni) [2014] - by [@vvondra](https://twitter.com/vvondra)
 
 
-### Školení
-
-* [Webuni](https://www.webuni.cz/symfony) - firemní školení
-* [Na rande se Symfony](http://www.naucmese.cz/kurz/na-rande-se-symfony) - individuální školení
-* [PHP framework Symfony 2 od A do Z](http://www.naucmese.cz/kurz/php-framework-symfony2-od-a-do-z) - skupinové školení
-* [PC Kurzy](http://www.pckurzy.cz/programovani-php-framework-symfony/) - skupinové školení
-
-
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
