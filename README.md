@@ -56,6 +56,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 * [Symfony tips and tricks](http://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) [2014-11]
 * [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015-07]
 * [Some Symfony 2 practices](http://www.emanueleminotto.it/some-symfony-2-practices)
+* [Výhody a nevýhody Symfony v bodech](http://devel.cz/otazka/nette-vs-symfony#answer-17973) [2014] [česky] - by [@spicimedved](https://twitter.com/spicimedved)
 
 
 ## Books
@@ -81,21 +82,11 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 * [KnpUniversity - Learn Symfony](https://knpuniversity.com/tracks/symfony)
    * Videos + articles. Straightforward, simple & with examples.
 
----
 
+## Series for begginers
 
-## Česky
+* [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016] [česky]
 
-
-### Seriály
-
-* [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016]
-
-
-### Články
-
-* [Výhody a nevýhody Symfony v bodech](http://devel.cz/otazka/nette-vs-symfony#answer-17973) [2014] - by [@spicimedved](https://twitter.com/spicimedved)
-* [Střípky ze školení](http://symfony.vojtechvondra.cz/2014-10-11-stripky-ze-skoleni) [2014] - by [@vvondra](https://twitter.com/vvondra)
 
 
 ### License
