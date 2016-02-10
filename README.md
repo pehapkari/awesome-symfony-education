@@ -1,8 +1,8 @@
 # Awesome Symfony [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of amazingly awesome Symfony resources and shiny things.
+A curated list of amazingly awesome Symfony **articles, series and books**.
 
-For bundles selection, check [sitepoint/awesome-symfony](https://github.com/sitepoint/awesome-symfony). 
+*For bundles selection, check [sitepoint/awesome-symfony](https://github.com/sitepoint/awesome-symfony).*
 
 
 ## Console
@@ -80,41 +80,6 @@ For bundles selection, check [sitepoint/awesome-symfony](https://github.com/site
    * Short video series for starters 
 * [KnpUniversity - Learn Symfony](https://knpuniversity.com/tracks/symfony)
    * Videos + articles. Straightforward, simple & with examples.
-
-
----
-
-## [Nette](https://github.com/nette/) related
-
-* [Symnedi](https://github.com/Symnedi)
-    * Integration of various Symfony components to Nette\DI
-  
-
-### Bundles
-
-* [Symnedi/SymfonyBundlesExtension](https://github.com/Symnedi/SymfonyBundlesExtension)
-    * Allows to register Symfony bundles as Nette extensions.
-
-
-### Console
-
-* [Kdyby/Console](https://github.com/Kdyby/Console)
-
-
-### Security
-
-* [Symnedi/Security](https://github.com/Symnedi/Security) - Voters, Firewalls 
-
-
-### EventDispatcher
-
-* [Symnedi/EventDispatcher](https://github.com/Symnedi/EventDispatcher)
-
-
-### Validator
-
-* [Symnedi/Validator](https://github.com/Symnedi/Validator)
- 
 
 ---
 
