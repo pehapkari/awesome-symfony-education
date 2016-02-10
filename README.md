@@ -139,3 +139,10 @@ For bundles selection, check [sitepoint/awesome-symfony](https://github.com/site
 * [Na rande se Symfony](http://www.naucmese.cz/kurz/na-rande-se-symfony) - individuální školení
 * [PHP framework Symfony 2 od A do Z](http://www.naucmese.cz/kurz/php-framework-symfony2-od-a-do-z) - skupinové školení
 * [PC Kurzy](http://www.pckurzy.cz/programovani-php-framework-symfony/) - skupinové školení
+
+
+### License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Tomas Votruba](http://tomasvotruba.cz) has waived all copyright and related or neighboring rights to this work.
