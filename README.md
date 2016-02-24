@@ -23,6 +23,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 
 ## Translations
+
 * [How Happyr work with Symfony translations](http://developer.happyr.com/how-happyr-work-with-symfony-translations) [2015-08]
 * [Translation workflow with Symfony2](http://jolicode.com/blog/translation-workflow-with-symfony2) [2015-07]
 
@@ -37,6 +38,11 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 * [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov [2013], [Github repository](https://github.com/MarcelloDuarte/hexagonal-symfony)
 * [Symfony2: How to create framework independent controllers](http://php-and-symfony.matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers/) [2014]
 * [Symfony2: Controller as Service](http://richardmiller.co.uk/2011/04/15/symfony2-controller-as-service/) [2011]
+
+
+## Legacy
+
+* [Eating spaghetti with Symfony](https://speakerdeck.com/jakzal/eating-spaghetti-with-symfony) [2016]
 
 
 ## Performance
