@@ -59,6 +59,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## General
 
+* [Symfony best practices](http://blog.kevingomez.fr/2014/04/08/symfony-best-practices/) [2014]
 * [Symfony tips and tricks](http://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) [2014-11]
 * [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015-07]
 * [Some Symfony 2 practices](http://www.emanueleminotto.it/some-symfony-2-practices)
