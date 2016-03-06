@@ -41,13 +41,13 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Translations
 
-* [How Happyr work with Symfony translations](http://developer.happyr.com/how-happyr-work-with-symfony-translations) [2015-08]
-* [Translation workflow with Symfony2](http://jolicode.com/blog/translation-workflow-with-symfony2) [2015-07]
+* [How Happyr work with Symfony translations](http://developer.happyr.com/how-happyr-work-with-symfony-translations) [2015]
+* [Translation workflow with Symfony2](http://jolicode.com/blog/translation-workflow-with-symfony2) [2015]
 
 
 ## Bundles
 
-* [High Quality Symfony Bundles](http://www.slideshare.net/matthiasnoback/high-quality-symfony-bundles-tutorial-dutch-php-conference-2014) [2014-06]
+* [High Quality Symfony Bundles](http://www.slideshare.net/matthiasnoback/high-quality-symfony-bundles-tutorial-dutch-php-conference-2014) [2014]
 
 
 ## Decoupling
@@ -64,9 +64,9 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Performance
 
-* [Mastering Symfony2 Performance – Internals](http://labs.octivi.com/mastering-symfony2-performance-internals/) [2014-04]
-* [Mastering Symfony2 Performance – Doctrine](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014-03]
-* [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015-06]
+* [Mastering Symfony2 Performance – Internals](http://labs.octivi.com/mastering-symfony2-performance-internals/) [2014]
+* [Mastering Symfony2 Performance – Doctrine](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014]
+* [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015]
 
 
 ## DDD
@@ -77,15 +77,15 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 ## General
 
 * [Symfony best practices](http://blog.kevingomez.fr/2014/04/08/symfony-best-practices/) [2014]
-* [Symfony tips and tricks](http://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) [2014-11]
-* [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015-07]
+* [Symfony tips and tricks](http://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) [2014]
+* [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015]
 * [Some Symfony 2 practices](http://www.emanueleminotto.it/some-symfony-2-practices)
 * [Výhody a nevýhody Symfony v bodech](http://devel.cz/otazka/nette-vs-symfony#answer-17973) [2014] [česky] - by [@spicimedved](https://twitter.com/spicimedved)
 
 
 ## Books
 
-* [Symfony Certification - Unofficial self-study guide](https://leanpub.com/symfony-selfstudy) [2015-07]
+* [Symfony Certification - Unofficial self-study guide](https://leanpub.com/symfony-selfstudy) [2015]
    * short Q-A based section about Symfony foundations
 * [A Year with Symfony](https://leanpub.com/a-year-with-symfony) [updated 2014]
     * Great book for beginners to understand basic Symfony lifecycle and how to use it to your advantages.
