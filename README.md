@@ -4,6 +4,21 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 *For bundles selection, check [sitepoint/awesome-symfony](https://github.com/sitepoint/awesome-symfony).*
 
+## Tutorials and Video Courses
+
+* [KnpUniversity - Symfony Course Track](https://knpuniversity.com/tracks/symfony)
+   * Videos + articles. Straightforward, simple & with examples.
+* [Working with Symfony 2](http://code.tutsplus.com/series/working-with-symfony-2--cms-636)
+   * Short video series for starters
+* [Symfony 2 - under 5 minutes](https://www.youtube.com/playlist?list=PL3Wxyd2R8-gIuToQ1NmhVSLZfjrBMePNu)
+   * Short video series for starters
+
+
+## Series for begginers
+
+* [Joyful Development with Symfony 3](http://knpuniversity.com/screencast/symfony) [2016] by KnpUniversity
+* [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016] [česky]
+
 
 ## Console
 
@@ -22,6 +37,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 * [Drop ACE, use voters](http://slides.com/marieminasyan/drop-ace-use-role-voters#/) [2013]
     * How to use simple yet powerful Voters instead of ACE/ACL overkill.
 * [The new Voter Class](http://knpuniversity.com/screencast/new-in-symfony3/voter) [2016] by KnpUniversity
+
 
 ## Translations
 
@@ -79,22 +95,6 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 * [Symfony2cheatsheet](http://www.symfony2cheatsheet.com)
     * A Symfony2 guide to make your work easier.
-
-
-## Tutorials and Video Courses
-
-* [KnpUniversity - Symfony Course Track](https://knpuniversity.com/tracks/symfony)
-   * Videos + articles. Straightforward, simple & with examples.
-* [Working with Symfony 2](http://code.tutsplus.com/series/working-with-symfony-2--cms-636)
-   * Short video series for starters
-* [Symfony 2 - under 5 minutes](https://www.youtube.com/playlist?list=PL3Wxyd2R8-gIuToQ1NmhVSLZfjrBMePNu)
-   * Short video series for starters 
-
-
-## Series for begginers
-
-* [Joyful Development with Symfony 3](http://knpuniversity.com/screencast/symfony) [2016] by KnpUniversity
-* [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016] [česky]
 
 
 ### License
