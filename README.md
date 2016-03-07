@@ -84,9 +84,14 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 
 ## Books
-
+* [Symfony Framework Deepdive - Forms](https://leanpub.com/symfonyframeworkdeepdive-forms) [not completed yet]
+    * Detailed guide to Form Component by Joshua Thijssen
+* [Symfony Framework Deepdive - Console](https://leanpub.com/symfonyframeworkdeepdive-console) [2015]
+    * Detailed guide to Console Component by Joshua Thijssen
+* [Symfony Framework Deepdive - Security](https://leanpub.com/symfonyframeworkdeepdive-security) [2015]
+    * Detailed guide to Security Component by Joshua Thijssen
 * [Symfony Certification - Unofficial self-study guide](https://leanpub.com/symfony-selfstudy) [2015]
-   * short Q-A based section about Symfony foundations
+    * Short Q-A based section about Symfony foundations
 * [A Year with Symfony](https://leanpub.com/a-year-with-symfony) [updated 2014]
     * Great book for beginners to understand basic Symfony lifecycle and how to use it to your advantages.
 
