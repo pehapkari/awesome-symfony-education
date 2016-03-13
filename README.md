@@ -43,6 +43,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 * [How Happyr work with Symfony translations](http://developer.happyr.com/how-happyr-work-with-symfony-translations) [2015]
 * [Translation workflow with Symfony2](http://jolicode.com/blog/translation-workflow-with-symfony2) [2015]
+* [How to organize your translations in Symfony](http://obtao.com/blog/2013/06/how-to-organize-your-translations-in-symfony/) [2013]
 
 
 ## Bundles
