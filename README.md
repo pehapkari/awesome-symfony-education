@@ -34,6 +34,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Security
 
+* [Do not use FOSUserBundle](https://jolicode.com/blog/do-not-use-fosuserbundle) [2015]
 * [Drop ACE, use voters](http://slides.com/marieminasyan/drop-ace-use-role-voters#/) [2013]
     * How to use simple yet powerful Voters instead of ACE/ACL overkill.
 * [The new Voter Class](http://knpuniversity.com/screencast/new-in-symfony3/voter) [2016] by KnpUniversity
