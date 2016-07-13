@@ -74,6 +74,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## DDD
 
+* [Rich domain model with Symfony 2.5 and Doctrine 2.5](http://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25) [2014]
 * [DDD with Symfony2: Folder Structure And Code First](http://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/) [2013]
 
 
