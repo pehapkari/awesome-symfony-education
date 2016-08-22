@@ -63,6 +63,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 * [Bringing Symfony Components into Your Legacy Code](https://speakerdeck.com/hhamon/bringing-symfony-components-into-your-legacy-code) [2016]
 * [Eating spaghetti with Symfony](https://speakerdeck.com/jakzal/eating-spaghetti-with-symfony) [2016]
+* [Migrating your project to Symfony](https://stovepipe.systems/post/migrating-your-project-to-symfony) [2016]
 
 
 ## Performance
