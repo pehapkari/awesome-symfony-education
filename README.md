@@ -4,6 +4,13 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 *For bundles selection, check [sitepoint/awesome-symfony](https://github.com/sitepoint/awesome-symfony).*
 
+
+## Single Action Controller
+
+- [DunglasActionBundle: Symfony controllers, redesigned](https://dunglas.fr/2016/01/dunglasactionbundle-symfony-controllers-redesigned/) [2016]
+- [Symfony Hello World](https://beberlei.de/2014/04/24/symfony_hello_world.html) [2014]
+
+
 ## Tutorials and Video Courses
 
 * [KnpUniversity - Symfony Course Track](https://knpuniversity.com/tracks/symfony)
