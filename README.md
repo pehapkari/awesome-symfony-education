@@ -15,7 +15,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 * [KnpUniversity - Symfony Course Track](https://knpuniversity.com/tracks/symfony)
    * Videos + articles. Straightforward, simple & with examples.
-* [Working with Symfony 2](http://code.tutsplus.com/series/working-with-symfony-2--cms-636)
+* [Working with Symfony 2](https://code.tutsplus.com/series/working-with-symfony-2--cms-636)
    * Short video series for starters
 * [Symfony 2 - under 5 minutes](https://www.youtube.com/playlist?list=PL3Wxyd2R8-gIuToQ1NmhVSLZfjrBMePNu)
    * Short video series for starters
@@ -49,20 +49,20 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Translations
 
-* [How Happyr work with Symfony translations](http://developer.happyr.com/how-happyr-work-with-symfony-translations) [2015]
-* [Translation workflow with Symfony2](http://jolicode.com/blog/translation-workflow-with-symfony2) [2015]
+* [How Happyr work with Symfony translations](https://developer.happyr.com/how-happyr-work-with-symfony-translations) [2015]
+* [Translation workflow with Symfony2](https://jolicode.com/blog/translation-workflow-with-symfony2) [2015]
 * [How to organize your translations in Symfony](http://obtao.com/blog/2013/06/how-to-organize-your-translations-in-symfony/) [2013]
 
 
 ## Bundles
 
-* [High Quality Symfony Bundles](http://www.slideshare.net/matthiasnoback/high-quality-symfony-bundles-tutorial-dutch-php-conference-2014) [2014]
+* [High Quality Symfony Bundles](https://www.slideshare.net/matthiasnoback/high-quality-symfony-bundles-tutorial-dutch-php-conference-2014) [2014]
 
 
 ## Decoupling
 
 * [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov [2013], [Github repository](https://github.com/MarcelloDuarte/hexagonal-symfony)
-* [Symfony2: How to create framework independent controllers](http://php-and-symfony.matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers/) [2014]
+* [Symfony2: How to create framework independent controllers](https://php-and-symfony.matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers/) [2014]
 * [Symfony2: Controller as Service](http://richardmiller.co.uk/2011/04/15/symfony2-controller-as-service/) [2011]
 
 
@@ -82,7 +82,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## DDD
 
-* [Rich domain model with Symfony 2.5 and Doctrine 2.5](http://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25) [2014]
+* [Rich domain model with Symfony 2.5 and Doctrine 2.5](https://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25) [2014]
 * [DDD with Symfony2: Folder Structure And Code First](http://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/) [2013]
 
 
@@ -90,10 +90,9 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 * [Lessons Learned from My First Symfony Project](http://www.thisprogrammingthing.com/2016/lessons-from-my-first-symfony-project/) [2016]
 * [Symfony best practices](http://blog.kevingomez.fr/2014/04/08/symfony-best-practices/) [2014]
-* [Symfony tips and tricks](http://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) [2014]
-* [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015]
-* [Some Symfony 2 practices](http://www.emanueleminotto.it/some-symfony-2-practices)
-* [Výhody a nevýhody Symfony v bodech](http://devel.cz/otazka/nette-vs-symfony#answer-17973) [2014] [česky] - by [@spicimedved](https://twitter.com/spicimedved)
+* [Symfony tips and tricks](https://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) [2014]
+* [Some Symfony 2 practices](https://emanueleminotto.github.io/blog/some-symfony-2-practices)
+* [Výhody a nevýhody Symfony v bodech](https://devel.cz/otazka/nette-vs-symfony#answer-17973) [2014] [česky] - by [@spicimedved](https://twitter.com/spicimedved)
 
 
 ## Books
@@ -117,6 +116,6 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ### License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Tomas Votruba](http://tomasvotruba.cz) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Tomas Votruba](https://www.tomasvotruba.cz/) has waived all copyright and related or neighboring rights to this work.
