@@ -43,10 +43,14 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Security
 
+* [Symfony Security, Roles vs. Voters](https://stovepipe.systems/post/symfony-security-roles-vs-voters) [2015]
 * [Do not use FOSUserBundle](https://jolicode.com/blog/do-not-use-fosuserbundle) [2015]
-* [Drop ACE, use voters](http://slides.com/marieminasyan/drop-ace-use-role-voters#/) [2013]
-    * How to use simple yet powerful Voters instead of ACE/ACL overkill.
 * [The new Voter Class](http://knpuniversity.com/screencast/new-in-symfony3/voter) [2016] by KnpUniversity
+
+
+## Forms
+
+- [Rethinking Form Development](https://stovepipe.systems/post/rethinking-form-development) [2016]
 
 
 ## Translations
@@ -98,6 +102,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 
 ## Books
+
 * [Symfony Framework Deepdive - Forms](https://leanpub.com/symfonyframeworkdeepdive-forms) [not completed yet]
     * Detailed guide to Form Component by Joshua Thijssen
 * [Symfony Framework Deepdive - Console](https://leanpub.com/symfonyframeworkdeepdive-console) [2015]
