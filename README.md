@@ -29,11 +29,6 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 * [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016] [česky]
 
 
-## Console
-
-* [Test your commands](http://alexandre-salome.fr/blog/Test-your-commands-in-Symfony2) [2011]
-
-
 ## EventDispatcher
 
 * [Decouple your application with (Domain-)Events](https://www.youtube.com/watch?v=K9jub4JPpcc) by Benjamin Eberlei [2013]
@@ -69,7 +64,6 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 * [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov [2013], [Github repository](https://github.com/MarcelloDuarte/hexagonal-symfony)
 * [Symfony2: How to create framework independent controllers](https://php-and-symfony.matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers/) [2014]
-* [Symfony2: Controller as Service](http://richardmiller.co.uk/2011/04/15/symfony2-controller-as-service/) [2011]
 
 
 ## Legacy
@@ -103,8 +97,6 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Books
 
-* [Symfony Framework Deepdive - Forms](https://leanpub.com/symfonyframeworkdeepdive-forms) [not completed yet]
-    * Detailed guide to Form Component by Joshua Thijssen
 * [Symfony Framework Deepdive - Console](https://leanpub.com/symfonyframeworkdeepdive-console) [2015]
     * Detailed guide to Console Component by Joshua Thijssen
 * [Symfony Framework Deepdive - Security](https://leanpub.com/symfonyframeworkdeepdive-security) [2015]
@@ -113,12 +105,6 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
     * Short Q-A based section about Symfony foundations
 * [A Year with Symfony](https://leanpub.com/a-year-with-symfony) [updated 2014]
     * Great book for beginners to understand basic Symfony lifecycle and how to use it to your advantages.
-
-
-## Websites
-
-* [Symfony2cheatsheet](http://www.symfony2cheatsheet.com)
-    * A Symfony2 guide to make your work easier.
 
 
 ### License
