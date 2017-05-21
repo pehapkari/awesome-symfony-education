@@ -29,6 +29,11 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 * [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016] [česky]
 
 
+## Dependency Injection
+
+* [How to refactor to new Dependency Injection features in Symfony 3.3](https://www.tomasvotruba.cz/blog/2017/05/07/how-to-refactor-to-new-dependency-injection-features-in-symfony-3-3/) by Tomas Votruba [2017]
+
+
 ## EventDispatcher
 
 * [Decouple your application with (Domain-)Events](https://www.youtube.com/watch?v=K9jub4JPpcc) by Benjamin Eberlei [2013]
