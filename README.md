@@ -4,7 +4,7 @@
 
 A curated list of amazingly awesome Symfony **articles, series and books**.
 
-*For bundles selection, check [sitepoint/awesome-symfony](https://github.com/sitepoint/awesome-symfony).*
+*For bundles selection, check [sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony).*
 
 
 ## Single Action Controller
