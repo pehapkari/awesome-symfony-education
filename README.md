@@ -50,6 +50,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Forms
 
+- [Avoiding Entities in Forms](https://stovepipe.systems/post/avoiding-entities-in-forms) [2016]
 - [Rethinking Form Development](https://stovepipe.systems/post/rethinking-form-development) [2016]
 
 
