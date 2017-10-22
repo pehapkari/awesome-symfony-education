@@ -54,6 +54,13 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 - [Rethinking Form Development](https://stovepipe.systems/post/rethinking-form-development) [2016]
 
 
+## Doctrine
+
+* [How to use Repository with Doctrine as Service in Symfony](https://www.tomasvotruba.cz/blog/2017/10/16/how-to-use-repository-with-doctrine-as-service-in-symfony/) [2017]
+* [Mastering Symfony2 Performance – Doctrine](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014]
+* [Rich domain model with Symfony 2.5 and Doctrine 2.5](https://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25) [2014]
+
+
 ## Translations
 
 * [How Happyr work with Symfony translations](https://developer.happyr.com/how-happyr-work-with-symfony-translations) [2015]
@@ -82,13 +89,11 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 ## Performance
 
 * [Mastering Symfony2 Performance – Internals](http://labs.octivi.com/mastering-symfony2-performance-internals/) [2014]
-* [Mastering Symfony2 Performance – Doctrine](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014]
 * [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015]
 
 
 ## DDD
 
-* [Rich domain model with Symfony 2.5 and Doctrine 2.5](https://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25) [2014]
 * [DDD with Symfony2: Folder Structure And Code First](http://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/) [2013]
 
 
