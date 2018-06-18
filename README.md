@@ -90,18 +90,18 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 ## Performance
 
 * [Mastering Symfony2 Performance – Internals](http://labs.octivi.com/mastering-symfony2-performance-internals/) [2014]
-* [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015]
+* [5 Ways to optimize Symfony Baseline Performance](https://tideways.com/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015]
 
 
 ## DDD
 
-* [DDD with Symfony2: Folder Structure And Code First](http://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/) [2013]
+* [DDD with Symfony2: Folder Structure And Code First](https://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/) [2013]
 
 
 ## General
 
 * [Lessons Learned from My First Symfony Project](http://www.thisprogrammingthing.com/2016/lessons-from-my-first-symfony-project/) [2016]
-* [Symfony best practices](http://blog.kevingomez.fr/2014/04/08/symfony-best-practices/) [2014]
+* [Symfony best practices](https://blog.kevingomez.fr/2014/04/08/symfony-best-practices/) [2014]
 * [Symfony tips and tricks](https://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) [2014]
 * [Some Symfony 2 practices](https://emanueleminotto.github.io/blog/some-symfony-2-practices)
 * [Výhody a nevýhody Symfony v bodech](https://devel.cz/otazka/nette-vs-symfony#answer-17973) [2014] [česky] - by [@spicimedved](https://twitter.com/spicimedved)
