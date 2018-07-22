@@ -27,7 +27,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 * [Joyful Development with Symfony 3](https://knpuniversity.com/screencast/symfony) [2016] by KnpUniversity
 * [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016] [česky]
-* [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io) [2018]
+* [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/) [2018]
 
 ## Dependency Injection
 
