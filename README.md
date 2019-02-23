@@ -15,7 +15,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Tutorials and Video Courses
 
-* [KnpUniversity - Symfony Course Track](https://knpuniversity.com/tracks/symfony)
+* [SymfonyCasts - Learn Symfony 4](https://symfonycasts.com/tracks/symfony)
    * Videos + articles. Straightforward, simple & with examples.
 * [Working with Symfony 2](https://code.tutsplus.com/series/working-with-symfony-2--cms-636)
    * Short video series for starters
@@ -25,7 +25,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Series for begginers
 
-* [Joyful Development with Symfony 3](https://knpuniversity.com/screencast/symfony) [2016] by KnpUniversity
+* [Joyful Development with Symfony 3](https://symfonycasts.com/tracks/symfony3) [2016] by SymfonyCasts
 * [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016] [česky]
 * [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/) [2018]
 
@@ -45,7 +45,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 * [Symfony Security, Roles vs. Voters](https://stovepipe.systems/post/symfony-security-roles-vs-voters) [2015]
 * [Do not use FOSUserBundle](https://jolicode.com/blog/do-not-use-fosuserbundle) [2015]
-* [The new Voter Class](https://knpuniversity.com/screencast/new-in-symfony3/voter) [2016] by KnpUniversity
+* [The new Voter Class](https://symfonycasts.com/screencast/new-in-symfony3/voter) [2016] by SymfonyCasts
 
 
 ## Forms
