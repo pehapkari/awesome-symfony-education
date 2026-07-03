@@ -105,6 +105,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 * [Symfony tips and tricks](https://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) [2014]
 * [Some Symfony 2 practices](https://emanueleminotto.github.io/blog/some-symfony-2-practices)
 * [Výhody a nevýhody Symfony v bodech](https://devel.cz/otazka/nette-vs-symfony#answer-17973) [2014] [česky] - by [@spicimedved](https://twitter.com/spicimedved)
+* [Mautic](https://www.mautic.org) - Open-source marketing automation platform built with PHP and Symfony for campaigns, segmentation, and lead management.
 
 
 ## Books
