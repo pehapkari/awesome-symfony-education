@@ -16,6 +16,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 ## Tutorials and Video Courses
 
 * [SymfonyCasts - Learn Symfony 4](https://symfonycasts.com/tracks/symfony)
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
    * Videos + articles. Straightforward, simple & with examples.
 * [Working with Symfony 2](https://code.tutsplus.com/series/working-with-symfony-2--cms-636)
    * Short video series for starters
